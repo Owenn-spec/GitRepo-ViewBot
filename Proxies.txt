@@ -1,0 +1,3 @@
+Format proxies.
+ip:port
+if you want to use another proxy type it's recommended you edit the script.
